@@ -1,4 +1,4 @@
-# FFMPEG
+# FFMPEG - Streamlink
 This Python script uses FFmpeg and Streamlink to extract frames and audio from a live stream URL.
 
 ## Prerequisites
